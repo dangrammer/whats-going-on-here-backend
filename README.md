@@ -1,11 +1,11 @@
 <img 
   src="public/images/banner.png" 
-  alt="Topical banner" 
+  alt="What's Going On Here? banner" 
   width="1350" 
   height="100"
 />
 
-Casual app for browsing or submitting images and adding humorous captions.It is a project 
+Casual app for browsing or submitting images and adding humorous captions. It is a project 
 application done for module 3 of Flatiron School. Besides smoothing up existing features, 
 refactoring certain code blocks, and seeking out bugs, the main to-dos are:
   - add custom validation error messages
@@ -46,21 +46,25 @@ refactoring certain code blocks, and seeking out bugs, the main to-dos are:
 
 ## Screenshots
 
-  <!-- Login/Signup
+  Flip Through Image Gallery
   <br/>
-  ![Login/Signup Demo](public/gifs/loginSignup.gif)
+  ![Image Gallery Demo](public/gifs/flipThroughImageGallery.gif)
 
-  Filter Articles
+  Scroll Through Captions and _Like_ Feature
   <br/>
-  ![Filter Demo](public/gifs/filterArticle.gif)
+  ![Captions and _Like_ Feature Demo](public/gifs/scrollCaptionsAndLike.gif)
 
-  Add, Edit, and Delete Collection
+  Add Caption
   <br/>
-  ![Collections Demo](public/gifs/addEditDeleteCollection.gif)
+  ![New Caption Demo](public/gifs/addCaption.gif)
 
-  Add and Edit Articles and Notes
+  Add Image
   <br/>
-  ![Articles Demo](public/gifs/addEditCollectionAndNotes.gif) -->
+  ![Add Image Demo](public/gifs/addNewImage.gif)
+
+  Hidden Link To Author Site
+  <br/>
+  ![mouseover Link Demo](public/gifs/mouseoverLink.gif)
 
 ## How To Install and Run
 
