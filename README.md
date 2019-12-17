@@ -48,23 +48,23 @@ refactoring certain code blocks, and seeking out bugs, the main to-dos are:
 
   Flip Through Image Gallery
   <br/>
-  ![Image Gallery Demo](public/gifs/flipThroughImageGallery.gif)
+  ![Image Gallery Demo](public/gifs/flip_through_image_gallery.gif)
 
   Scroll Through Captions and _Like_ Feature
   <br/>
-  ![Captions and _Like_ Feature Demo](public/gifs/scrollCaptionsAndLike.gif)
+  ![Captions and _Like_ Feature Demo](public/gifs/scroll_captions_and_like.gif)
 
   Add Caption
   <br/>
-  ![New Caption Demo](public/gifs/addCaption.gif)
+  ![New Caption Demo](public/gifs/add_caption.gif)
 
   Add Image
   <br/>
-  ![Add Image Demo](public/gifs/addNewImage.gif)
+  ![Add Image Demo](public/gifs/add_new_image.gif)
 
   Hidden Link To Author Site
   <br/>
-  ![mouseover Link Demo](public/gifs/mouseoverLink.gif)
+  ![Mouseover Link Demo](public/gifs/mouseover_link.gif)
 
 ## How To Install and Run
 
