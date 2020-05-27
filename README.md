@@ -23,14 +23,14 @@ refactoring certain code blocks, and seeking out bugs, the main to-dos are:
   - ruby 2.6.1
 
 ## Rails Version
-  - rails ~> 6.0.0
+  - rails 6.0.3.1
 
 ## Database
-  - postgreSQL
+  - postgreSQL 1.2.3
 
 ## Gem Dependencies
-  - active_model_serializers ~> 0.10.0
-  - rack-cors
+  - active_model_serializers 0.10.10
+  - rack-cors 1.1.1
   
 ## Live Demo
   Link to walkthrough video with narration:
